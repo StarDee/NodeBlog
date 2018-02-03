@@ -1,0 +1,22 @@
+{
+  "name": "node-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "stardee",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "mysql": "^2.15.0",
+    "nunjucks": "^3.0.1",
+    "sequelize": "^4.32.2"
+  }
+}
